@@ -134,9 +134,13 @@ a:hover {
 
 .firstRow {
     margin: 20px 20px 20px 20px;
+    width: 40px;
+    height: 60px;
 }
 .secondRow {
     margin: 20px 70px 20px 20px;
+    width: 40px;
+    height: 60px;
 }
 .elementsLibrary {
     background-color: rgb(5, 255, 109);
