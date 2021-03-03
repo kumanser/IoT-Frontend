@@ -133,10 +133,14 @@ a:hover {
 }
 .LED {
     background color: url(LED.PNG);
-    width: 20px;
-    height: 40px;
+    width: 40px;
+    height: 80px;
 }
-
+.diode {
+    width: 40px;
+    height: 80px;
+    margin: 20%;
+}
 .elementsLibrary {
     background-color: rgb(5, 255, 109);
     flex: 1;
