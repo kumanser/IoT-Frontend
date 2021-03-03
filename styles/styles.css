@@ -136,12 +136,12 @@ a:hover {
     height: 80px;
     margin: 20px 70px 20px 20px;
 }
-.diode {
+.firstRow {
     width: 40px;
     height: 80px;
     margin: 20px 20px 20px 20px;
 }
-.resistor {
+.secondRow {
     width: 40px;
     height: 80px;
     margin: 20px 70px 20px 20px;
