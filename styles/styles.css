@@ -151,6 +151,12 @@ a:hover {
 .writings{
     margin-left: 20px;
 }
+
+.fourthRow{
+    margin: 20px 40px;
+    width: 76px;
+    height: 72px;
+}
 .elementsLibrary {
     background-color: rgb(5, 255, 109);
     flex: 1;
