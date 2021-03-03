@@ -131,6 +131,11 @@ a:hover {
     background-color: aqua;
     flex: 4;
 }
+.LED {
+    background color: url(LED.PNG);
+    width: 20px;
+    height: 40px;
+}
 
 .elementsLibrary {
     background-color: rgb(5, 255, 109);
