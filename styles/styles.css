@@ -131,11 +131,7 @@ a:hover {
     background-color: aqua;
     flex: 4;
 }
-.LED {
-    width: 40px;
-    height: 80px;
-    margin: 20px 70px 20px 20px;
-}
+
 .firstRow {
     width: 40px;
     height: 80px;
